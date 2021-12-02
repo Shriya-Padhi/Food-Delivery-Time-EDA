@@ -6,3 +6,5 @@ Data: 11095 rows x 9 columns
 Columns: Restaurants (unique ID,Minimum order, Rating, Votes, Reviews, Delivery time.
 Our main focus is on delivery time based sentiment analysis.
 Link: https://www.kaggle.com/ankitkalauni/the-food-delivery-time-for-different-cuisines
+
+Co-creaters: Arnav Sinha, Tanmay Unhale and Harsh Pandey
